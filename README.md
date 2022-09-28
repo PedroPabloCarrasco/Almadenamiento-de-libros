@@ -2,10 +2,24 @@
 
 
 ==============================================================================================================================================================
+                                    El sistema lo desarrollé con php, laravel y bootsrap.
+                                    en cuanto a la base de datos, utilicé phpmyadmin por lo que deberan importar la base de datos en el panel de phpmy admin para hacer                                     funcionar el proyecto.
+                                    
+                                    
+                                    
                                     CREDENCIALES DE ACCESO AL SISTEMA:
                                     admin@gmail.com
 
                                     contraseña: 12345678
+                                    
+                                    Para correr el proyecto, hay que utilizar xammp o un software similar, arrancar apache y mysql y dejar el proyecto en la carpeta                                        htdocs o similar del software.
+                                    Luego una vez abierto el proyecto en visual studio code, mediante la consola de visualstudio hay que iniciar el proyecto.
+                                    
+                                    Comandos para iniciar el proyecto:
+                                    php artisan serve
+                                    
+                                                     
+                                    
 ==============================================================================================================================================================
 
 
