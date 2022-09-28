@@ -2,6 +2,8 @@
 
 
 ==============================================================================================================================================================
+
+
                                     El sistema lo desarrollé con php, laravel y bootsrap.
                                     en cuanto a la base de datos, utilicé phpmyadmin por lo que deberan importar la base de datos en el panel de phpmy admin para hacer                                     funcionar el proyecto.
                                     
