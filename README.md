@@ -8,6 +8,9 @@
                                     en cuanto a la base de datos, utilicé phpmyadmin por lo que deberan importar la base de datos en el panel de phpmy admin para hacer                                     funcionar el proyecto.
                                     
                                     
+                                    IMPORTAR BASE DE DATOS:
+                                    Hay que importar el archivo llamado: crud_laravel_libros.sql
+                                    en el panel de phpmyadmin para que se conecte con el sistema.
                                     
                                     CREDENCIALES DE ACCESO AL SISTEMA:
                                     admin@gmail.com
