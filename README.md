@@ -18,7 +18,8 @@
                                     contraseña: 12345678
                                     
                                     Para correr el proyecto, hay que utilizar xammp o un software similar, arrancar apache y mysql y dejar el proyecto en la carpeta                                        htdocs o similar del software.
-                                    Luego una vez abierto el proyecto en visual studio code, mediante la consola de visualstudio hay que iniciar el proyecto.
+                                    Dentro de la carpeta, hay un directorio llamado vendor, el cual esta comprimido, este hay que descomprimirlo y abrir el proyecto en                                     visual studio code
+                                    Luego una vez abierto el proyecto en visual studio code, mediante la consola de visual studio hay que iniciar el proyecto.
                                     
                                     Comandos para iniciar el proyecto:
                                     php artisan serve
